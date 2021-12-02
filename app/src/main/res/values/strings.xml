@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">My Application Mid Kutman</string>
+    <string name="order">Order</string>
+    <string name="LQNSU345JK">LQNSU345JK</string>
+    <string name="">
+    <string name="order_status">Order Status</string>
+    <string name="items">Items</string>
+    <string name="price">Price</string>
+    <string name="shipping">Shipping</string>
+    <string name="_2_items_purchased">2 Items purchased</string>
+    <string name="_299_43">$299,43</string>
+    <string name="lqnsu345jk">LQNSU345JK</string>
+    <string name="order_at_lafyuu_august_1_2017">Order at Lafyuu : August 1, 2017</string>
+    <string name="order_status">Order Status</string>
+    <string name="items">Items</string>
+    <string name="price">Price</string>
+    <string name="shipping">Shipping</string>
+    <string name="_2_items_purchased">2 Items purchased</string>
+    <string name="_299_43">$299,43</string>
+    <string name="order_at_lafyuu_august_1_2017">Order at Lafyuu : August 1, 2017</string>
 </resources>
